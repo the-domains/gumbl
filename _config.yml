@@ -1,0 +1,28 @@
+name: gumbl
+favicon: null
+layout_spectrum: 0.9180768760852516
+typography_spectrum: 0.04985012975521386
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7813348688650876
+  lightness: 0.3267955118790269
+  saturation: 0.09851054358296096
+  rhythmicContrast: 0.9634752194397151
+purpose: []
